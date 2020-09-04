@@ -1,29 +1,27 @@
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome, SEI Constellations!<!-- omit in toc -->
 
-![](night-sky.gif)
+![](https://media1.tenor.com/images/77e424608c095bc52cff5d9ddb398428/tenor.gif)
 
 ## Class Information
 
-Congratulations on taking the first significant step towards your new career! 
+Congratulations on taking the first significant step towards your new career!
 
-As you start your Software Engineering Immersive, we know you'll have many questions– this repo will be the home of most of the administrative and support info you will need as students for the next three months. This includes important schedule and calendar information, contact info for your leadership team, and course policies on homework, attendance, and plagiarism.
+As you start your Software Engineering Immersive, we know you'll have many questions– this repo will be the home of most of the administrative info you will need as students for the next three months. This includes contact info for your leadership team, and course policies on homework, attendance, and plagiarism.
 
-For more, including the daily schedules and an overview of the resources available to you, please visit this repo's [wiki tab](https://git.generalassemb.ly/sei-nyc-constellations/class-info/wiki), which you can also find by clicking on the above tabs, next to "Pull Requests."
+For more, you also have access to:
+
+- The [course syllabus](https://git.generalassemb.ly/sei-nyc-phoenix/class-syllabus), containing the weekly and daily schedules, links to the Zoom recordings, and so forth; and
+- The [course resources](https://git.generalassemb.ly/sei-nyc-phoenix/class-resources), containing templates, guides, syntax cheatsheets, and more.
 
 # Table of Contents <!-- omit in toc -->
 
 - [Course Leadership](#Course-Leadership)
 - [Course Calendar & Schedule](#Course-Calendar--Schedule)
   - [Important Dates](#Important-Dates)
-  - [Course Breakdown](#Course-Breakdown)
-    - [Unit 1](#Unit-1)
-    - [Unit 2](#Unit-2)
-    - [Unit 3](#Unit-3)
-    - [Unit 4](#Unit-4)
-    - [Outcomes](#Outcomes)
   - [Sample Daily Breakdown](#Sample-Daily-Breakdown)
   - [Teaching Assistant Hours](#Teaching-Assistant-Hours)
+  - [Campus Hours (Once campus reopens, feel free to stop by as an alumni!)](#Campus-Hours-Once-campus-reopens-feel-free-to-stop-by-as-an-alumni)
 - [Course Policies](#Course-Policies)
   - [Attendance & Tardiness](#Attendance--Tardiness)
   - [Homework Submissions](#Homework-Submissions)
@@ -34,16 +32,16 @@ For more, including the daily schedules and an overview of the resources availab
 
 # Course Leadership
 
-| Role                                 | Name             | Slack              | Email                   | GitHub Enterprise                                               |
-| ------------------------------------ | ---------------- | ------------------ | ----------------------- | --------------------------------------------------------------- |
-| **Instructional Lead** Unit 1        | Steve VanWoerkom | @Steven VanWoerkom | steven.vanwoerkom@ga.co | [SteveVW](https://git.generalassemb.ly/SteveVW)                 |
-| **Instructional Lead** Unit 2        | Ali Spittel      | @Ali Spittel       | alison.spittel@ga.co    | [aspittel](https://git.generalassemb.ly/aspittel)               |
-| **Instructional Lead** Unit 3        | Bruno Galvao     | @Bruno Galvao      | bruno.galvao@ga.co      | [bruno](https://git.generalassemb.ly/bruno)                     |
-| **Instructional Lead** Unit 4        | David Whitlatch  | @David Whitlatch   | david.whitlatch@ga.co   | [davidtwhitlatch](https://git.generalassemb.ly/davidtwhitlatch) |
-| **Instructional Associate**          | Katelyn Miles    | @Katelyn Miles     | katelyn.miles@ga.co     | [MilesK](https://git.generalassemb.ly/MilesK)                   |
-| **Instructional Associate**          | Misha Kessler    | @Misha Kessler     | misha.kessler@ga.co     | [mishakessler](https://git.generalassemb.ly/mishakessler)       |
-| **Teaching Assistant & HW Reviewer** | Shay Kelley      | @Shay Kelley       | shay.kelley@ga.co       | [Shayk](https://git.generalassemb.ly/Shayk)                     |
-| **Outcomes Advisor**                 | Daniel Robinson  | @Dan Robinson      | dan.robinson@ga.co      |                                                                 |
+| Role                                      | Name              | Slack              | Email                   | GitHub Enterprise                                               |
+| ----------------------------------------- | ----------------- | ------------------ | ----------------------- | --------------------------------------------------------------- |
+| **Instructional Lead** Unit 1             | Steve VanWoerkom  | @Steven VanWoerkom | steven.vanwoerkom@ga.co | [SteveVW](https://git.generalassemb.ly/SteveVW)                 |
+| **Instructional Lead** Unit 2             | Soleil Solomon    | @Soleil Solomon    | soleil.solomon@ga.co    | [ssolomon](https://git.generalassemb.ly/aspittel)               |
+| **Instructional Lead** Unit 3             | Bruno Galvao      | @Bruno Galvao      | bruno.galvao@ga.co      | [bruno](https://git.generalassemb.ly/bruno)                     |
+| **Instructional Lead** Unit 4             | David Whitlatch   | @David Whitlatch   | david.whitlatch@ga.co   | [davidtwhitlatch](https://git.generalassemb.ly/davidtwhitlatch) |
+| **Instructional Associate**               | Misha Kessler     | @Misha Kessler     | misha.kessler@ga.co     | [mishakessler](https://git.generalassemb.ly/mishakessler)       |
+| **Instructional Associate & HW Reviewer** | Shay Kelley       | @Shay Kelley       | shay.kelley@ga.co       | [Shayk](https://git.generalassemb.ly/shayk)                     |
+| **Instructional Associate & HW Reviewer** | Janice He         | @Janice He         | janice.he@ga.co         | [JaniceHe](https://git.generalassemb.ly/janicehe)               |
+| **Outcomes Advisor**                      | Emily Van Blargan | @Emily Van Blargan | emily.vanblargan@ga.co  |                                                                 |
 
 <br>
 
@@ -51,94 +49,46 @@ For more, including the daily schedules and an overview of the resources availab
 
 ## Important Dates
 
-| Unit  | Date         | Day of Week | Event                         |
-| :---: | :----------- | :---------- | :---------------------------- |
-|   1   | **May 25th** | Monday      | _Memorial Day (Holiday)_      |
-|       | **May 26th** | Tuesday     | Unit Begins                   |
-|       | **June 5th** | Friday      | Incomplete Work Deadline      |
-|       | **June 8th** | Monday      | Project 1 Pitches & Approvals |
-|       | **June 12**  | Friday      | Project 1 Presentations       |
+| Unit  | Date               | Day of Week | Event                         |
+| :---: | :----------------- | :---------- | :---------------------------- |
+|   1   | **September 7th**  | Monday      | _Labor Day (Holiday)_         |
+|       | **September 8th**  | Tuesday     | Unit Begins                   |
+|       | **September 18th** | Friday      | Incomplete Work Deadline      |
+|       | **September 21st** | Monday      | Project 1 Pitches & Approvals |
+|       | **September 25th** | Friday      | Project 1 Presentations       |
 
 
-| Unit  | Date          | Day of Week | Event                                 |
-| :---: | :------------ | :---------- | :------------------------------------ |
-|   2   | **June 15**   | Monday      | Unit Begins                           |
-|       | **June 26th** | Friday      | Incomplete Work Deadline              |
-|       | **June 29th** | Monday      | Project 2 Pitches & Approvals         |
-|       | **July 2nd**  | Thursday    | Project 2 Presentations               |
-|       | **July 3rd**  | Friday      | _Independence Day (Holiday Observed)_ |
+| Unit  | Date               | Day of Week | Event                         |
+| :---: | :----------------- | :---------- | :---------------------------- |
+|   2   | **September 28th** | Monday      | Unit Begins                   |
+|       | **October 9th**    | Friday      | Incomplete Work Deadline      |
+|       | **October 12th**   | Monday      | Project 2 Pitches & Approvals |
+|       | **October 16th**   | Friday      | Project 2 Presentations       |
 
 
-| Unit  | Date          | Day of Week | Event                         |
-| :---: | :------------ | :---------- | :---------------------------- |
-|   3   | **July 6th**  | Monday      | Unit Begins                   |
-|       | **July 17th** | Friday      | Incomplete Work Deadline      |
-|       | **July 20th** | Monday      | Project 3 Pitches & Approvals |
-|       | **July 24th** | Friday      | Project 3 Presentations       |
+| Unit  | Date              | Day of Week | Event                         |
+| :---: | :---------------- | :---------- | :---------------------------- |
+|   3   | **October 19th**  | Monday      | Unit Begins                   |
+|       | **October 30th**  | Friday      | Incomplete Work Deadline      |
+|       | **November 2nd**  | Monday      | Project 3 Pitches & Approvals |
+|       | **November 3rd**  | Tuesday     | _Election Day_                |
+|       | **November 10th** | Tuesday     | Project 3 Presentations       |
+|       | **November 11th** | Wednesday   | _Veterans Day_                |
 
 
-| Unit  | Date            | Day of Week | Event                         |
-| :---: | :-------------- | :---------- | :---------------------------- |
-|   4   | **July 27th**   | Monday      | Unit Begins                   |
-|       | **August 7th**  | Friday      | Incomplete Work Deadline      |
-|       | **August 10th** | Monday      | Project 4 Pitches & Approvals |
-|       | **August 18th** | Tuesday     | Project 4 Presentations       |
-|       | **August 18th** | Tuesday     | _Graduation Day_              |
-
-<br>
-
-## Course Breakdown
-
-### Unit 1
-
-**Front End Web Development Foundations - HTML, CSS, & JavaScript**
-
-|  Week  |    Date     | Link                                                                                               | Topic                                           |
-| :----: | :---------: | :------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
-| Week 1 | 5/25 - 6/28 | [Unit 1 Detailed View](https://git.generalassemb.ly/sei-nyc-constellations/class-info/wiki/Unit-1) | Intros, Command Line Interface, Git, JavaScript |
-| Week 2 | 6/01 - 6/05 |                                                                                                    | CSS, DOM Manipulation, APIs                     |
-| Week 3 | 6/08 - 6/12 |                                                                                                    | Project 1                                       |
-
-### Unit 2
-
-**Front End JavaScript Frameworks and Advanced JS - React, React Router, Test Driven Development, Component Libraries**
-
-|  Week  |    Date     | Link                                                                                               | Topic                                    |
-| :----: | :---------: | :------------------------------------------------------------------------------------------------- | :--------------------------------------- |
-| Week 4 | 6/15 - 6/19 | [Unit 2 Detailed View](https://git.generalassemb.ly/sei-nyc-constellations/class-info/wiki/Unit-2) | OOP, React, Component Libraries, Testing |
-| Week 5 | 6/22 - 6/26 |                                                                                                    | Life Cycle, Hooks, Router                |
-| Week 6 | 6/29 - 7/02 |                                                                                                    | Project 2                                |
-
-### Unit 3
-
-**Back End & Full Stack Web Development Foundations - Group Git Version Control, Express, MongoDB, SQL**
-
-|  Week  |    Date     | Link                                                                                               | Topic                      |
-| :----: | :---------: | :------------------------------------------------------------------------------------------------- | :------------------------- |
-| Week 7 | 7/06 - 7/10 | [Unit 3 Detailed View](https://git.generalassemb.ly/sei-nyc-constellations/class-info/wiki/Unit-3) | Express, MongoDB, GroupGit |
-| Week 8 | 7/13 - 7/17 |                                                                                                    | Project 3                  |
-| Week 9 | 7/20 - 7/24 |                                                                                                    | SQL                        |
-
-### Unit 4
-
-**Additional Technologies & Independent Work - Ruby on Rails**
-
-|  Week   |    Date     | Link                                                                                               | Topic                         |
-| :-----: | :---------: | :------------------------------------------------------------------------------------------------- | :---------------------------- |
-| Week 10 | 7/27 - 8/01 | [Unit 4 Detailed View](https://git.generalassemb.ly/sei-nyc-constellations/class-info/wiki/Unit-4) | Relational Data Modeling, SQL |
-| Week 11 | 8/03 - 8/07 |                                                                                                    | Ruby, Rails                   |
-| Week 12 | 8/10 - 8/14 |                                                                                                    | Project 4 Week                |
-| Week 13 | 8/17 - 8/18 |                                                                                                    | Project 4 Week                |
-
-### Outcomes
-
-**Personal Branding, Job Seeking, & Career Directions**
-
-|  Week  | Date  | Link                                                                                          | Topic             |
-| :----: | :---: | :-------------------------------------------------------------------------------------------- | :---------------- |
-| Week 1 | 2/26  | [Outcomes Wiki](https://git.generalassemb.ly/sei-nyc-constellations/class-info/wiki/Outcomes) | Intro to Outcomes |
+| Unit  | Date              | Day of Week | Event                         |
+| :---: | :---------------- | :---------- | :---------------------------- |
+|   4   | **November 12th** | Thursday    | Unit Begins                   |
+|       | **November 25th** | Wednesday   | _Thanksgiving Break_          |
+|       | **November 26th** | Thursday    | _Thanksgiving Break_          |
+|       | **November 27th** | Friday      | _Thanksgiving Break_          |
+|       | **November 30th** | Monday      | Incomplete Work Deadline      |
+|       | **December 1st**  | Tuesday     | Project 4 Pitches & Approvals |
+|       | **December 7th**  | Monday      | Project 4 Presentations       |
+|       | **December 7th**  | Monday      | _Graduation_                  |
 
 <br>
+
 
 ## Sample Daily Breakdown
 > This schedule may vary and could change depending on class progress.
@@ -165,9 +115,9 @@ For more, including the daily schedules and an overview of the resources availab
 | Wednesday                    | 12:00PM - 2:00PM   |
 | Saturdays & Sundays          | At Student Request |
 
-<!-- <br>
+<br>
 
-## Campus Hours
+## Campus Hours (Once campus reopens, feel free to stop by as an alumni!)
 
 | Day               |    Time    |
 | ----------------- | :--------: |
@@ -175,7 +125,6 @@ For more, including the daily schedules and an overview of the resources availab
 | Friday            | 8AM - 6PM  |
 | Saturday & Sunday | 9AM - 6PM  |
 
--->
 
 <br>
 
@@ -183,7 +132,7 @@ For more, including the daily schedules and an overview of the resources availab
 
 ## Attendance & Tardiness
 
-Attendance is taken both in the morning and evening. Please review [the full attendance policy document](/policies/attendance.md).
+Attendance is taken both in the morning and evening. Please review [the full attendance policy](ATTENDANCE.md).
 
 ## Homework Submissions
 
@@ -191,7 +140,7 @@ Homework submissions are due by 11:00PM. Missing homeworks will not be accepted.
 
 ## Plagiarism
 
-General Assembly has a **zero tolerance policy** towards plagiarism and cheating. It is destructive to classroom culture, and exhibits a clear lack of respect for classmates, instructors, the company, and the greater engineering community. Please review [the full plagiarism policy document](/policies/plagiarism.md).
+General Assembly has a **zero tolerance policy** towards plagiarism and cheating. It is destructive to classroom culture, and exhibits a clear lack of respect for classmates, instructors, the company, and the greater engineering community. Please review [the full plagiarism policy](PLAGIARISM.md).
 
 <br>
 
