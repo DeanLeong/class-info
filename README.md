@@ -2,13 +2,9 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome, SEI Phoenix!<!-- omit in toc -->
 
 <p align="center">
-  
   <a href="#">
-  
-    ![](https://media1.tenor.com/images/77e424608c095bc52cff5d9ddb398428/tenor.gif)
-    
+    <img src="https://media1.tenor.com/images/77e424608c095bc52cff5d9ddb398428/tenor.gif" alt="Phoenix" />
   </a>
-  
 </p>
 
 ## Class Information
