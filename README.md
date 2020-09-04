@@ -2,7 +2,9 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome, SEI Constellations!<!-- omit in toc -->
 
 <div style="text-align: center">
+  
 ![](https://media1.tenor.com/images/77e424608c095bc52cff5d9ddb398428/tenor.gif)
+
 </div>
 
 ## Class Information
