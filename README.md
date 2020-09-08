@@ -44,7 +44,7 @@ For more, you also have access to:
 | **Instructional Lead** Unit 4             | David Whitlatch   | @David Whitlatch   | david.whitlatch@ga.co   | [davidtwhitlatch](https://git.generalassemb.ly/davidtwhitlatch) |
 | **Instructional Associate**               | Misha Kessler     | @Misha Kessler     | misha.kessler@ga.co     | [mishakessler](https://git.generalassemb.ly/mishakessler)       |
 | **Instructional Associate & HW Reviewer** | Shay Kelley       | @Shay Kelley       | shay.kelley@ga.co       | [Shayk](https://git.generalassemb.ly/shayk)                     |
-| **Instructional Associate & HW Reviewer** | Janice He         | @Janice He         | janice.he@ga.co         | [JaniceHe](https://git.generalassemb.ly/janicehe)               |
+| **Teaching Assistant** | Janice He         | @Janice He         | janice.he@ga.co         | [JaniceHe](https://git.generalassemb.ly/janicehe)               |
 | **Outcomes Advisor**                      | Emily Van Blargan | @Emily Van Blargan | emily.vanblargan@ga.co  |                                                                 |
 
 <br>
