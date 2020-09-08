@@ -140,7 +140,7 @@ Attendance is taken both in the morning and evening. Please review [the full att
 
 ## Homework Submissions
 
-Homework submissions are due by 11:00PM. Missing homeworks will not be accepted. Please review [the full homework submission guidelines](https://git.generalassemb.ly/sei-nyc-phoenix/class-resources/blob/master/homework/guidelines.md) and the [homework submission template](https://git.generalassemb.ly/sei-nyc-phoenix/class-resources/blob/master/homework/submission-guidelines.md).
+Homework submissions are due by 11:00PM. Missing homeworks will not be accepted. Please review [the full homework submission guidelines](https://git.generalassemb.ly/sei-nyc-phoenix/class-resources/blob/master/homework/guidelines.md) and the [homework submission template](https://git.generalassemb.ly/sei-nyc-phoenix/class-resources/blob/master/homework/submission-template.md).
 
 ## Plagiarism
 
