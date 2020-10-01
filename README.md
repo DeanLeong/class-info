@@ -39,7 +39,7 @@ For more, you also have access to:
 | Role                                      | Name              | Slack              | Email                   | GitHub Enterprise                                               |
 | ----------------------------------------- | ----------------- | ------------------ | ----------------------- | --------------------------------------------------------------- |
 | **Instructional Lead** Unit 1             | Steve VanWoerkom  | @Steven VanWoerkom | steven.vanwoerkom@ga.co | [SteveVW](https://git.generalassemb.ly/SteveVW)                 |
-| **Instructional Lead** Unit 2             | Soleil Solomon    | @Soleil Solomon    | soleil.solomon@ga.co    | [ssolomon](https://git.generalassemb.ly/aspittel)               |
+| **Instructional Lead** Unit 2             | Soleil Solomon    | @Soleil Solomon [she/her]   | soleil.solomon@ga.co    | [soleilyasmina](https://git.generalassemb.ly/soleilyasmina)               |
 | **Instructional Lead** Unit 3             | Bruno Galvao      | @Bruno Galvao      | bruno.galvao@ga.co      | [bruno](https://git.generalassemb.ly/bruno)                     |
 | **Instructional Lead** Unit 4             | David Whitlatch   | @David Whitlatch   | david.whitlatch@ga.co   | [davidtwhitlatch](https://git.generalassemb.ly/davidtwhitlatch) |
 | **Instructional Associate**               | Misha Kessler     | @Misha Kessler     | misha.kessler@ga.co     | [mishakessler](https://git.generalassemb.ly/mishakessler)       |
